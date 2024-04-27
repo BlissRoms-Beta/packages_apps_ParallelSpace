@@ -1,4 +1,4 @@
-package org.derpfest.parallelspace;
+package org.blissroms.parallelspace;
 
 import android.app.Application;
 

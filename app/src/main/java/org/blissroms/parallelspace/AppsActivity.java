@@ -1,4 +1,4 @@
-package org.derpfest.parallelspace;
+package org.blissroms.parallelspace;
 
 import android.os.Bundle;
 import android.view.Menu;
@@ -9,7 +9,7 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AlertDialog;
 
-import com.android.internal.derp.app.ParallelSpaceManager;
+import com.android.internal.bliss.app.ParallelSpaceManager;
 
 import com.android.settingslib.collapsingtoolbar.CollapsingToolbarBaseActivity;
 

@@ -1,10 +1,10 @@
-package org.derpfest.parallelspace;
+package org.blissroms.parallelspace;
 
 import android.content.pm.PackageManager;
 import android.content.pm.ResolveInfo;
 import android.graphics.drawable.Drawable;
 
-import com.android.internal.derp.app.ParallelSpaceManager;
+import com.android.internal.bliss.app.ParallelSpaceManager;
 
 public class SpaceAppInfo {
 

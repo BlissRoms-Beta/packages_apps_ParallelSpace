@@ -1,4 +1,4 @@
-package org.derpfest.parallelspace;
+package org.blissroms.parallelspace;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -15,7 +15,7 @@ import androidx.preference.Preference;
 import androidx.preference.PreferenceCategory;
 import androidx.preference.PreferenceFragmentCompat;
 
-import com.android.internal.derp.app.ParallelSpaceManager;
+import com.android.internal.bliss.app.ParallelSpaceManager;
 
 import java.util.List;
 import java.util.Objects;
